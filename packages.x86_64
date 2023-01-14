@@ -158,6 +158,7 @@ xorg-xrdb
 
 #WAYLAND
 qt6-wayland
+plasma-wayland-session
 
 ##DESKTOP
 sddm
@@ -170,16 +171,34 @@ packagekit-qt5
 packagekit-qt6
 kscreen
 kfind
+kate
 mlocate
 kcalc
 simplescreenrecorder
 lib32-simplescreenrecorder
 okular
+vivaldi
+vivaldi-ffmpeg-codecs
+visual-studio-code-bin
+dbeaver
+dbeaver-plugin-svg-format
+dbeaver-plugin-office
+devhelp
+onlyoffice-bin
+dropbox
+telegram-desktop
+discord
+qbittorrent
+smplayer
+smplayer-themes
+mystiq
+ksystemlog
 
 ##FONTES
 ttf-lato
 noto-fonts-emoji
 noto-fonts-cjk
+ttf-ms-fonts
 
 ##REDE
 networkmanager
@@ -187,11 +206,16 @@ network-manager-applet
 networkmanager-pptp
 mtr
 speedtest-cli
+remmina
 
 #REPOSITORIOS
-#chaotic-mirrorlist
-#chaotic-keyring
+chaotic-mirrorlist
+chaotic-keyring
 biglinux-key
+pamac-aur
+flatpak
+yay
+trizen
 
 #BIGLINUX
 biglinux-apps-rename
