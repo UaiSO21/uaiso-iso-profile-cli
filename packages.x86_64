@@ -140,6 +140,12 @@ make
 mkinitcpio-openswap
 curl
 wget
+fakeroot
+jq
+rxvt-unicode
+wmctrl
+python-gobject
+force-upgrade
 
 #KERNEL
 linux
@@ -199,6 +205,8 @@ ttf-lato
 noto-fonts-emoji
 noto-fonts-cjk
 ttf-ms-fonts
+ttf-comfortaa
+ttf-ubuntu-font-family
 
 ##REDE
 networkmanager
