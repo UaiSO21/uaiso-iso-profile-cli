@@ -217,10 +217,7 @@ speedtest-cli
 remmina
 
 #REPOSITORIOS
-#chaotic-mirrorlist
-#chaotic-keyring
-biglinux-keyring
-uaiso21-keyring
+uaiso-keyring
 pamac-aur
 flatpak
 yay
