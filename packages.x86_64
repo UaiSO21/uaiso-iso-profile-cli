@@ -91,7 +91,6 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -114,7 +113,6 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -131,7 +129,6 @@ bash-completion
 curl
 dex
 fakeroot
-force-upgrade
 jq
 libxinerama
 linux-headers
