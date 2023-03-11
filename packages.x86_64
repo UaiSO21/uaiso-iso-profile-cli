@@ -102,6 +102,7 @@ testdisk
 tmux
 tpm2-tss
 uaiso-kernel-linux-lts
+uaiso-kernel-linux-lts-headers
 udftools
 usb_modeswitch
 usbmuxd
