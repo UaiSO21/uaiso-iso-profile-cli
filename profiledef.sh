@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux"
+iso_name="uaisocli"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
+iso_publisher="UaiSO Linux <https://uaiso.uai21.online>"
+iso_application="UaiSO Linux Live/Rescue CD"
 iso_version="$(date +%Y-%m-%d-%H)"
 install_dir="arch"
 buildmodes=('iso')
