@@ -107,6 +107,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
+uaiso21-keyring
 virtualbox-guest-utils-nox
 vpnc
 wireless_tools
