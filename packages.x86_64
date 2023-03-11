@@ -116,4 +116,5 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+zram-generator
 zsh
