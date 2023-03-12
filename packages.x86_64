@@ -8,7 +8,6 @@ bind
 brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -88,7 +87,6 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -111,13 +109,8 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 virtualbox-guest-utils-nox
 vpnc
-wireless-regdb
-wireless_tools
-wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zsh
