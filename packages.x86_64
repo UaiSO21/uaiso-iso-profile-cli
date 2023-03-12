@@ -6,7 +6,7 @@ b43-fwcutter
 base
 bind
 brltty
-broadcom-wl
+#broadcom-wl
 btrfs-progs
 cloud-init
 cryptsetup
