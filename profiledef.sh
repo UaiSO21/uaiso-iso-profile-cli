@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="uaisocli"
-iso_label="ARCH_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_label="ARCH_$(date +%Y%m)"
 iso_publisher="UaiSO Linux <https://uaiso.uai21.com>"
 iso_application="UaiSO Linux Live/Rescue CD"
-iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
+iso_version="$(date +%Y-%m-%d-%H)"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
