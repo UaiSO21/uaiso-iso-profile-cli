@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="uaisocli"
+iso_name="uaiso-cli"
 iso_label="ARCH_$(date +%Y%m)"
 iso_publisher="UaiSO Linux <https://uaiso.uai21.com>"
 iso_application="UaiSO Linux Live/Rescue CD"
